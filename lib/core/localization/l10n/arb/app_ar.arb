@@ -1,0 +1,15 @@
+{
+    "@@locale": "ar",
+    "bottom_bar_home_title": "الرئيسية",
+    "bottom_bar_search_title": "يبحث",
+    "bottom_bar_favorite_title": "مفضل",
+    "bottom_bar_profile_title": "حساب تعريفي",
+    "internetFailureMessage": "يبدو أن جهازك غير متصل بالشبكة. يرجى التحقق من اتصالك بالإنترنت أو إعادة المحاولة لاحقًا.",
+    "@internetFailureMessage": {
+        "description": "سيتم عرض هذه الرسالة داخل شريط الوجبات الخفيفة"
+    },
+    "internetSuccessMessage": "تمت استعادة الاتصال بالإنترنت!",
+    "@internetSuccessMessage": {
+        "description": "سيتم عرض هذه الرسالة داخل شريط الوجبات الخفيفة"
+    }
+}
